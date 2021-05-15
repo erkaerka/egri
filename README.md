@@ -1,1 +1,1 @@
-# egri
+# sayıları büyük girince sapıtıyo
